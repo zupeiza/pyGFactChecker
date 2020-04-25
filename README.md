@@ -11,5 +11,7 @@ main.py [-h] [-p] keywords
   keywords    keywords to match
 
 ### Optional arguments:
+```
   -h, --help  show this help message and exit
   -p          Output claims in console
+```
